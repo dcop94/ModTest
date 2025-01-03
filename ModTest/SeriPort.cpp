@@ -44,4 +44,5 @@ bool SeriPort::OpenPort(const std::string& portName,
 		return false;
 	}
 
+	ddfldlfdlwl
 }
